@@ -3,7 +3,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 90%;
-    align-content:center;
+    align-itens:center;
 }
 
 h3{
