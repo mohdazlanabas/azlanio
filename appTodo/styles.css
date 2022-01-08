@@ -16,7 +16,7 @@ html, body {
     font-weight: bold;
 }
 
-h1{
+h3{
     color: white;
 }
 .container {
@@ -39,8 +39,8 @@ h1{
 }
 
 #addToDo {
-    height: 50px;
-    width: 50px;
+    height: 20px;
+    width: 20px;
     border: 1px solid black;
     vertical-align: middle;
     font-size: 10px;}
