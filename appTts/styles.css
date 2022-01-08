@@ -1,0 +1,61 @@
+
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh; 
+}
+p    {
+    color: white;
+    font-family: "Segoe UI", sans-serif;
+    }
+
+.container{
+    height: 300px;
+    width: 500px;
+    border-color: #2E94E3;
+    border-style:solid ;
+    padding: 10px;
+    justify-content: center;
+}
+h4{
+    color:black;
+}
+
+.mainbutton{
+    background-color: #2E94E3;
+    position: absolute;
+    font-family: "Segoe UI", sans-serif;
+    padding: 5px 10px;
+    font-size: 10px;
+    width: 50px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+
+#voiceList{
+    background-color: #2E94E3;
+    font-size: 20px;
+    border: none;
+    color: white;
+    width:200px;
+}
+
+#txtInput{
+    background-color: #2E94E3;
+    font-size: 20px;
+    border: none;
+    color: white;
+    width: 450px;
+}
+
+#btnSpeak{
+    background-color: #2E94E3;
+    font-size: 20px;
+    border: none;
+    color: white;
+    width: 200px;
+    border-radius: 20px;
+}

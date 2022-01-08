@@ -1,0 +1,209 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 95%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri;
+  }
+  
+  #main {
+    box-shadow: 2px, 2px, 2px, black;
+  }
+  
+  li {
+    margin: 5px 5px;
+    color: white;
+  }
+  
+  /* 1. NAV - NAV BAR AREA*/
+  
+  nav {
+    width: 100%;
+    height: 50px;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-size: 11px;
+  }
+  
+  .logo {
+    height: 50px;
+    width: 150px;
+    margin-left: 10px;
+  }
+  
+  /* 1. 1ST LAYER*/
+  
+  .hero {
+    width: 100%;
+    background-color: lightgrey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .hero-info {
+    width: 100%;
+    height: 250px;
+    background-color: #2E94E3;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  #name {
+    color: white;
+    font-size: 45px;
+  }
+  
+  .button {
+    width: 100px;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: 20px;
+    line-height: 0;
+    color: white;
+    text-shadow: 1px 1px, 1px black;
+    background-color: orange;
+    box-shadow: 2px, 2px, 2px, green;
+    justify-content: center;
+  }
+  
+  .button:hover {
+    background-color: black;
+  }
+  
+  .styled-break {
+    width: 48;
+    height: 5px;
+    background-color: purple;
+    margin: 30px 0px 30px 0px;
+  }
+  
+  .picture-frame {
+    width: 100%;
+    height: 250px;
+    background-color: #2E94E3;;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .picture {
+    height: 200px;
+    width: 200px;
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .hero-info {
+      max-width: 700px;
+    }
+    .picture {
+      height: 0px;
+      visibility: hidden;
+    }
+  }
+  
+  /* 3. 3RD LAYER*/
+  
+  .section {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .abus {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .avatar {
+    width: 100px;
+    border-radius: 50px;
+  }
+  
+  .info {
+    width: 100%;
+    background-color: white;
+  }
+  
+  .socials {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .test {
+    width: 30px;
+    height: 30px;
+    background-color: green;
+    margin: 5px 5px;
+  }
+  
+  .far {
+    margin: 5px;
+  }
+  
+  .form-container {
+    width: 100%;
+    background-color: white;
+  }
+  form {
+    margin: 0 0 40px 0;
+  }
+  
+  .input-section {
+    margin: 10px 0px;
+    display: flex;
+  }
+  
+  .input-group {
+    display: flex;
+    flex-direction: column;
+    margin: 0 5px 0 0;
+  }
+  
+  /* 5. Footer Area*/
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    color: orange;
+  }
+  
+  footer {
+    width: 100%;
+    height: 90px;
+    background-color: lightgrey;
+    display: flex;
+  }
+  
+  @media only screen and (max-width: 500px) {
+    footer {
+      background-color: lightblue;
+    }}
+  
+  .hamburger {
+    border: 0;}
+
+  .nav-bar {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    font-size: 12px;}

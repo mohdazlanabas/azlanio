@@ -1,0 +1,50 @@
+body{
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+.mainbutton{
+  background-color: #2E94E3;
+  position: absolute;
+  font-family: "Segoe UI", sans-serif;
+  padding: 5px 10px;
+  font-size: 10px;
+  width: 50px;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+}
+
+.score{
+  color: white;
+  font-size: 20px;
+}
+
+.start{
+  font-size: 20px;
+  width: 200px;
+  margin-top: 50px;;
+}
+
+.grid {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+    border-color: #2E94E3;
+  }
+  
+  .grid div {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .snake {
+    background-color: green;
+  }
+  
+  .apple {
+    background-color: red;
+  }

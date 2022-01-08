@@ -1,0 +1,23 @@
+body{
+    background-color: #2E94E3;;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+    margin: 35px 0 20px 0 !important;
+  }
+
+  .mainbutton{
+    background-color: black;
+    position: absolute;
+    font-family: "Segoe UI", sans-serif;
+    padding: 5px 10px;
+    font-size: 10px;
+    width: 50px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+}
