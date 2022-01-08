@@ -7,6 +7,17 @@ body{
     align-content:center;
 }
 
+.container{
+  background-color: black;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-color: #2E94E3;
+  border-style: solid;
+  margin-top: 20px;
+  width: 80%;
+}
+
 h3{
     color: white;
     font-family: "Segoe UI", sans-serif;
