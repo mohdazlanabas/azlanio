@@ -12,6 +12,19 @@ body{
     margin: 50px auto;
     text-align: center;
 }
+
+.mainbutton{
+    background-color: #2E94E3;
+    position: absolute;
+    font-family: "Segoe UI", sans-serif;
+    padding: 5px 10px;
+    font-size: 10px;
+    width: 50px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+}
+
 h1{
     font-size: 40px;
     font-family: "Segoe UI", sans-serif;
