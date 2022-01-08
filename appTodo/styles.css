@@ -33,7 +33,7 @@ h1{
     border-width: 0;
     border: 1px solid black;
     outline: none;
-    font-size: 25px;
+    font-size: 10px;
     vertical-align: middle;
     color: black
 }
@@ -52,6 +52,6 @@ h1{
 }
 
 .to-dos {
-    margin-top: 25px;
+    margin-top: 10px;
     color: white;
 }
