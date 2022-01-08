@@ -3,6 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     background: black;
+    width: 98%;
   }
 
   h2{
@@ -32,7 +33,6 @@ body{
   border-color: #2E94E3;
   border-style: solid;
   margin-top: 100px;
-  margin-left: 50px;
 }
 
   .picture{
