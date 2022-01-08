@@ -3,13 +3,10 @@ body{
     display: flex;
     flex-direction: column;
     width: 90%;
-    align-itens:center;
-    align-content:center;
 }
 
 .container{
   background-color: black;
-  align-items: center;
   display: flex;
   flex-direction: column;
   border-color: #2E94E3;
