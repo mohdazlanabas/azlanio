@@ -4,6 +4,7 @@ body{
     flex-direction: column;
     width: 90%;
     align-itens:center;
+    align-content:center;
 }
 
 h3{
