@@ -13,7 +13,6 @@ h3{
 
 .mainbutton{
     background-color: #2E94E3;
-    position: absolute;
     font-family: "Segoe UI", sans-serif;
     padding: 5px 10px;
     font-size: 10px;
@@ -36,6 +35,5 @@ h3{
     margin-top: 40px;
 }
 .video1{
-    width: 500px;
-    height: 500px;
+    width: 70%;
 }
