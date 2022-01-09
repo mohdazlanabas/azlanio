@@ -30,6 +30,11 @@ h1{
     font-family: "Segoe UI", sans-serif;
     color: white;
 }
+
+h4{
+    color:black;
+}
+
 #time{
     font-size: 60px;
     font-family: "Segoe UI", sans-serif;
