@@ -130,7 +130,8 @@ h4{
 
 .btn {
     align-self: center;
-    width: 140px;
+    position: absolute;
+    width: 100px;
     height: 30px;
     font-family: "Segoe UI", sans-serif;
     font-size: 20px;
