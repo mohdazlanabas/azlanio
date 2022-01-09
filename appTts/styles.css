@@ -11,13 +11,16 @@ p    {
     }
 
 .container{
-    height: 320px;
-    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
     border-color: #2E94E3;
     border-style:solid ;
     padding: 10px;
     justify-content: center;
 }
+
 h4{
     color:black;
 }
