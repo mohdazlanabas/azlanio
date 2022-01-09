@@ -25,6 +25,9 @@ h2 {
     text-align: center;
 }
 
+h4{
+    color:black;
+
 .mainbutton{
     background-color: #2E94E3;
     position: absolute;
@@ -49,21 +52,21 @@ h2 {
 #hour-label {
     grid-area: 1 / 2 / 1 / 3;
     font-family: "Segoe UI", sans-serif;
-    font-size: 10px;
+    font-size: 20px;
     color: white;
 }
 
 #min-label {
     grid-area: 1 / 3 / 1 / 4;
     font-family: "Segoe UI", sans-serif;
-    font-size: 10px;
+    font-size: 20px;
     color: white;
 }
 
 #sec-label {
     grid-area: 1 / 4 / 1 / 5;
     font-family: "Segoe UI", sans-serif;
-    font-size: 10px;
+    font-size: 20px;
     color: white;
 }
 
@@ -83,14 +86,14 @@ h2 {
 #hour {
     grid-area: 2 / 2 / 2 / 3;
     font-family: "Segoe UI", sans-serif;
-    font-size: 50px;
+    font-size: 20px;
     color: white;
 }
 
 .semicolon {
     justify-self: center;
     align-self: center;
-    font-size: 30px;
+    font-size: 20px;
     margin: 0;
     color: white;
 }
@@ -102,21 +105,21 @@ h2 {
 #minute {
     grid-area: 2 / 3 / 2 / 4;
     font-family: "Segoe UI", sans-serif;
-    font-size: 50px;
+    font-size: 20px;
     color: white;
 }
 
 #p2 {
     grid-area: 2 / 3 / 2 / 5;
     font-family: "Segoe UI", sans-serif;
-    font-size: 40px;
+    font-size: 20px;
     color: white;
 }
 
 #sec {
     grid-area: 2 / 4 / 2 / 5;
     font-family: "Segoe UI", sans-serif;
-    font-size: 50px;
+    font-size: 20px;
     color: white;
 }
 
