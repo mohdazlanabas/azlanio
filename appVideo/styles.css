@@ -25,6 +25,7 @@ h3{
 
 .mainbutton{
     background-color: #2E94E3;
+    align-content: center;
     font-family: "Segoe UI", sans-serif;
     padding: 5px 10px;
     font-size: 10px;
