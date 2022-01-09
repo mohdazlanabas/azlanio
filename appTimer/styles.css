@@ -141,13 +141,11 @@ h4{
 }
 
 #start {
-    grid-area: 3 / 3 / 3 / 5;
     font-family: "Segoe UI", sans-serif;
     font-size: 20px;
 }
 
 #reset {
-    grid-area: 3 / 3 / 3 / 5;
     font-family: "Segoe UI", sans-serif;
     font-size: 20px;
 }
