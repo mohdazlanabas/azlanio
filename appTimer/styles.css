@@ -13,7 +13,7 @@ body{
 }
 
 #subcontainer {
-    width: 750px;
+    width: 80%;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(3, 1fr);
