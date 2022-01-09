@@ -143,11 +143,11 @@ h4{
 #start {
     font-family: "Segoe UI", sans-serif;
     font-size: 20px;
-    grid-area: 3 / 4 / 3 / 4;
+    grid-area: 3 / 3 / 3 / 4;
 }
 
 #reset {
     font-family: "Segoe UI", sans-serif;
     font-size: 20px;
-    grid-area: 3 / 5 / 3 / 4;
+    grid-area: 3 / 6 / 3 / 4;
 }
