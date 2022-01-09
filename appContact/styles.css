@@ -5,6 +5,10 @@ body{
     flex-direction: column;
 }
 
+h2 {
+    color: #2E94E3;
+  }
+
 h3 {
     text-align: center;
     margin: 35px 0 20px 0 !important;
