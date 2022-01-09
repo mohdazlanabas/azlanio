@@ -10,7 +10,7 @@ body{
     height: 90%;
     width: 90%;
     margin: 50px auto;
-   justify-content: center;
+   justify-items: center;
 }
 
 .mainbutton{
