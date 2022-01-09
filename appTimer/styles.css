@@ -130,7 +130,7 @@ h4{
 
 .btn {
     align-self: center;
-    width: 120px;
+    width: 100px;
     height: 30px;
     font-family: "Segoe UI", sans-serif;
     font-size: 20px;
@@ -139,7 +139,7 @@ h4{
     color: white;
     border: solid;
     border-color: white;
-    padding-right: 10px;
+    align-items: center;
 }
 
 #start {
