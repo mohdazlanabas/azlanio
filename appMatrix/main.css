@@ -24,7 +24,7 @@ html {
     flex-shrink: 0;
     overflow-y: auto;
     padding: 1em;
-    width: 300px;
+    width: 20%;
 }
 
 .notes__add {
