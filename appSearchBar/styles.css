@@ -2,8 +2,6 @@
     display: flex;
     flex-direction: column;
     gap: .25rem;
-    border: 5px;
-    border-color: #2E94E3;
   }
   
   input {
