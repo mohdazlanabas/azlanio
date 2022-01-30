@@ -17,9 +17,8 @@
   
   .card {
     border: 1px solid black;
-    background-color: #2E94E3;
     padding: .5rem;
-    color: white;
+    color: #2E94E3;
   }
   
   .card > .header {
